@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Gunjan Kumar 👋
 
-<!--
-**gunjankumar-dev/gunjankumar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 .NET Developer | 9+ Years Experience  
+⚡ Passionate about clean architecture, microservices, cloud-native apps  
+🌱 Exploring: Kubernetes, Azure, DDD  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages**: C#, ASP.NET Core, SQL, TypeScript
+- **Frontend**: Angular
+- **Cloud**: GCP, Azure basics
+- **Other**: Docker, Kubernetes, CI/CD, Microservices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Notable Projects
+- `merchant-onboarding-api`: Microservice for merchant registration (Kubernetes + Pub/Sub + PostgreSQL)
+- `dotnet-utils`: Useful reusable libraries for .NET Core
+
+👉 Check my pinned repos below!
